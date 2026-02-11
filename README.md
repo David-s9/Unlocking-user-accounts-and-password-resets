@@ -8,6 +8,6 @@
   - In the Group Policy Management window, right click on the domain that the user belongs to > Active Directory Users and Computers
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/9879725a-2b2a-4c36-8a62-29d1e425cca5" />
 
-  - In the Active Directory Users and Computers window, right click on the user > Properties > Account > click "Unlock account" and "User must change password at next logon" boxes > Ok
+  - In the Active Directory Users and Computers window, right click on the user > Properties > Account > click "Unlock account" and "User must change password at next logon" boxes > Apply > Ok
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/db09e161-3c49-4227-9cb4-b7ca1fafa4bd" />
 
