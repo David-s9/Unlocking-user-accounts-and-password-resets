@@ -1,1 +1,1 @@
-# Practicing-account-unlocking-user-account-and-password-resets-
+# Unlocking user accounts and password resets
